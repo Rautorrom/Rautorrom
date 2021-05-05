@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Rautorrom
+- 🌱 I’m currently learning how to code my way out of this matrix we call world.
